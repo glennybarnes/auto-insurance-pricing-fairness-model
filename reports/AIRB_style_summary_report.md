@@ -1,5 +1,5 @@
 
-# 📘 Auto Insurance Pricing Fairness Model  
+# Auto Insurance Pricing Fairness Model  
 **Regulatory Evaluation Summary Report**  
 
 *All data are synthetic for demonstration purposes.*  
@@ -48,9 +48,9 @@ Two models estimate pure premium (loss per exposure):
 - GLM preferred for fairness review; Random Forest improves accuracy but less interpretable  
 
 **Regulatory Suitability:**  
-✔ Demonstration only  
-✔ AIRB-aligned workflow  
-✘ Not for real-world pricing  
+Demonstration only  
+AIRB-aligned workflow  
+Not for real-world pricing  
 
 ---
 
